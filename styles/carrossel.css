@@ -41,6 +41,12 @@
   flex-direction: column;
 }
 
+
+.descrição img {
+  width: 60%;
+  margin: 0.5em 0;
+}
+
 .descrição__titulo {
   color: var(--laranja);
   font-weight: 700;
